@@ -87,11 +87,11 @@ body {
 @media only screen and (max-width:600px) {
     .image-mov {
         width: 250px;
-        height: 320px;
+        height: 340px;
         border-radius: 10px;
     }
     .card-text-details {
-        font-size: medium;
+        font-size: small;
     }
 }
 
