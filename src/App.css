@@ -90,6 +90,9 @@ body {
         height: 320px;
         border-radius: 10px;
     }
+    .card-text-details {
+        font-size: medium;
+    }
 }
 
 .text-end {
