@@ -95,16 +95,7 @@ body {
     }
 }
 
-@media only screen and (max-width:900px) {
-    .image-mov {
-        width: 300px;
-        height: 420px;
-        border-radius: 10px;
-    }
-    .card-text-details {
-        font-size: medium;
-    }
-}
+
 
 .text-end {
     text-align: center;
